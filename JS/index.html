@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Example</title>
+    <link rel="stylesheet" type="text/css" href="css/dx.common.css" />
+    <link rel="stylesheet" type="text/css" href="css/dx.light.css" />
+
+    <script type="text/javascript" src="js/jquery-2.2.3.min.js"></script>
+    <script type="text/javascript" src="js/dx.all.js"></script>
+    <script type="text/javascript" src="data.js"></script>
+
+    <style>
+        .dx-list .dx-list-item {
+            border: 0px;
+            width: 25%;
+            float: left;
+        }
+    </style>
+    <script type="text/javascript">
+
+        $(function () {
+            var selectedItems = [];
+            var listWidget = $("#simpleList").dxList({
+                dataSource: tasks,
+                height: 300,
+                showSelectionControls: true,
+                selectionMode: "multiple"
+            }).dxList("instance");
+        });
+
+    </script>
+</head>
+<body id="form">
+
+    <div class="demo-container">
+        <div id="simpleList"></div>
+    </div>
+
+</body>
+</html>
+
