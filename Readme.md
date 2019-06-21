@@ -3,6 +3,9 @@
 
 <!-- default file list end -->
 # List - How to create a list with multiple columns 
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t479648)**
+<!-- run online end -->
 
 
 Use CSS to split dxList into multiple columns.<br><br>See also:<br><a href="https://www.devexpress.com/Support/Center/p/K18570">How to inspect CSS rules</a>
