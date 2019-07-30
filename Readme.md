@@ -4,7 +4,7 @@
 <!-- default file list end -->
 # List - How to create a list with multiple columns 
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t479648)**
+**[[Run Online]](https://codecentral.devexpress.com/t479648/)**
 <!-- run online end -->
 
 
