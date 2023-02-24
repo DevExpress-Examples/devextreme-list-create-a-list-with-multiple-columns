@@ -11,7 +11,7 @@
 <!-- default file list end -->
 # List - How to create a list with multiple columns 
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t479648/)**
+**[[Run Online]](https://codecentral.devexpress.com/128585149/)**
 <!-- run online end -->
 
 This example demonstrates how you can create List with multiple columns. The main idea is to use CSS and split items into columns:
