@@ -15,9 +15,6 @@ This example demonstrates how you can create List with multiple columns. The mai
 }
 ```
 
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128585149/)**
-<!-- run online end -->
 
 <div align="center"><img alt="DevExtreme List - How to create a list with multiple columns" src="list-with-columns.png" /></div>
 
