@@ -31,7 +31,7 @@ The following KB articles will be helpful if you are going to use CSS to change 
 - <a href="https://www.devexpress.com/Support/Center/Question/Details/K18570/how-to-inspect-css-rules">How to inspect CSS rules</a>
 - <a href="https://supportcenter.devexpress.com/Ticket/Details/T632424/how-to-implement-css-related-solutions-for-devexpress-components">How to implement CSS-related solutions for DevExpress components</a>
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=devextreme-list-create-a-list-with-multiple-columns&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=devextreme-list-create-a-list-with-multiple-columns&~~~was_helpful=no)
 
