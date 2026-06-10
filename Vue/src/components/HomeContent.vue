@@ -1,28 +1,22 @@
 <script setup lang="ts">
-import { computed, ref } from 'vue';
-
 import 'devextreme/dist/css/dx.material.blue.light.compact.css';
-import DxButton from 'devextreme-vue/button';
-
-const props = defineProps({
-  text: {
-    type: String,
-    default: 'count',
-  },
-});
-const count = ref(0);
-const buttonText = computed < string > (
-  () => `Click ${props.text}: ${count.value}`
-);
-function clickHandler() {
-  count.value += 1;
-}
+import DxList from 'devextreme-vue/list';
+import { tasks } from '../data';
 </script>
 <template>
   <div>
-    <DxButton
-      :text="buttonText"
-      @click="clickHandler"
+    <DxList
+      :data-source="tasks"
+      :height="300"
+      :show-selection-controls="true"
+      selection-mode="multiple"
     />
   </div>
 </template>
+<style>
+.dx-list .dx-list-item {
+  border: 0;
+  width: 25%;
+  float: left;
+}
+</style>
