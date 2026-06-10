@@ -2,3 +2,9 @@
   margin: 50px;
   width: 90vw;
 }
+
+::ng-deep .dx-list .dx-list-item {
+  border: 0;
+  width: 25%;
+  float: left;
+}
